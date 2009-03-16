@@ -1,0 +1,16 @@
+A szem fénytörésének vékonylencse-modellje a következőképpen írja le a szem optikáját. A corneát elérő párhuzamos fénysugarakat először a cornea-levegő határfelület téríti el, ezek fókusztávolsága 1/K. A következő törőközeg az elülső csarnok; mire a fénynyaláb eléri az effektív lencsesíkot, a fókusztávolság d/n1-gyel csökken, ahol d az elülső csarnok mélysége, n1 pedig az elülső csarnok törésmutatója. Ebből számítható a sugarak vergenciája (V1) akkor, amikor azok elérik a lencsét:
+
+V1 = 1 / (1 / K - d / n1)
+
+A lencse F törőereje emmetropia esetén éppen akkora, hogy a lencsét elhagyó sugarak V2 vergenciája azonos legyen a lencsesík és a retina távolságával, hiszen ekkor fognak a sugarak a retinán találkozni. Ebből:
+
+V2 = n2 / (Ax - d)
+
+ahol n2 a hátsó szegmentum törésmutatója, Ax pedig a tengelyhossz. A retina és a lencsesík távolsága a teljes tengelyhossz és az elülső csarnok mélységének különbségével számítható.
+
+A lencse törőerejét a vergenciák különbsége adja:
+
+P = n2 / (Ax - d) - 1 / (1 / K - d / n1)
+
+Ez a képlet formájában megfelel a korai, elméleti műlencseképleteknek (Colenbrander, Fyodorov, Binkhorst).
+

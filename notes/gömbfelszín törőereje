@@ -1,0 +1,3 @@
+F = (n2 - n1) / r
+
+ahol r a gömbfelszín sugara, n1 a felület előtti, n2 a felület utáni közeg törőereje. Megegyezés szerint az elöl domború felületek törőereje pozitív.

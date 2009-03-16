@@ -1,0 +1,7 @@
+Az SRK I képlet eredeti alakja:
+
+P0 = A - 0,9 K - 2,5 Ax
+
+ahol Ax az optikai tengelyhossz, K a keratometriás érték (1,3375-ös keratometriás index mellett), A pedig a lencse gyárilag megadott A-konstansa.
+
+Ezeknek a képleteknek az a hátránya, hogy elméletileg csak azon az adathalmazon adnak optimális eredményt, amelyekből származtatták őket. Ez a gyakorlatban azt jelenti, hogy minden olyan tényező, ami torzítást vihet be, pl. a biometriás vagy operatív technika változásai, a műlencse intra- vagy extracapsularis elhelyezése stb. szükégessé teszi a képlet újbóli levezetését. Ezért azt javasolták, hogy ezeket a képleteket minden sebész saját maga számára optimalizálja.

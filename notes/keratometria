@@ -1,12 +1,14 @@
 A cornea törőereje a szem össz-törőerejének kétharmadát adja. Emiatt a keratometria hibái az egész lencsetervezési folyamat sikerét nagyban befolyásolják.
 
-A keratometria nem közvetlenül méri a cornea törőerejét. A mérés alapját a cornea felületéről visszatükröződő kép nagyságának a mérése jelenti, ebből határozható meg a cornea külső görbületének a sugara. Az eljárás egyik nagy problémája, hogy a mérés nem a képalkotás szempontjából legfontosabb középső részen, hanem a cornea közepén, egy 3 mm-es átmérőjű körben történik. Ebből a görbületi sugárból a keratométerek egy állandó keratometriás index segítségével számítják ki a cornea törőerejét:
+A keratometria nem közvetlenül méri a cornea törőerejét. A mérés alapját a cornea felületéről visszatükröződő kép nagyságának a mérése jelenti, ebből határozható meg a cornea külső görbületének a sugara. Az eljárás egyik nagy problémája, hogy a mérés nem a képalkotás szempontjából legfontosabb centrális részen, hanem egy 3 mm-es átmérőjű körben történik a cornea centruma körül. Ebből a görbületi sugárból a keratométerek egy állandó keratometriás index segítségével számítják ki a cornea törőerejét, az alábbi képlettel:
 
 D = (n - 1) / r
 
 ahol n a keratometriás index, r a görbületi sugár.
 
-Az így kapott érték viszont nem tekinthető a cornea pontos törőerejének. Ez a számítási módszer a corneát lapos lencsének tekinti, figyelmen kívül hagyja a vastagságát, és azt, hogy az elülső és hátsó görbület sugara eltér. A corneavastagság ultrahangos módszerrel mérhető, viszont a hátsó görbület sugarának mérésére nincs klinikailag alkalmazható módszer, ezért az elülső és hátsó görbület állandónak tekintett arányának segítségével becslik a hátsó görbület sugarát. Gullstrand szemmodelljében ez az arány 6,8:7,7. Így a vastaglencse-képlettel kiszámítható a cornea valódi törőerejének egy jó közelítése. Ebből az adódik, hogy a cornea hátsó felszíne önmagában kb. -6 D törőerőt jelent, az egész cornea együtt pedig kb. 0,8 D-val adódik többnek, mint a keratometriás érték.
+Az így kapott érték nem tekinthető a cornea pontos törőerejének. Ennek oka, hogy ez a számítási módszer a corneát lapos lencsének tekinti, figyelmen kívül hagyja a vastagságát, és azt, hogy az elülső és hátsó görbület sugara eltér. A corneavastagság ultrahangos módszerrel mérhető ugyan, de a hátsó görbület sugarának mérésére nincs klinikailag alkalmazható módszer. Ezért a gyakorlatban az elülső és hátsó görbület arányát állandónak tekintik, és ennek a segítségével becsülik meg a hátsó görbület sugarát. Gullstrand szemmodelljében ez az arány 6,8:7,7.
 
-Nemrég derült ki Dubbelmann és mtsai munkájából, hogy a Gullstrand-féle szemmodell 6,8/7,7-es (=0,8831) corneagörbületi aránya túl nagy érték, és a valóságban ez az érték 0,82 és 0,84 között mozog.
+Így a vastaglencse-képlettel kiszámítható a cornea valódi törőerejének egy jó közelítése. Ebből az adódik, hogy a cornea hátsó felszíne önmagában kb. -6 D-s törőerőt képvisel, az egész cornea együtt pedig kb. 0,8 D-val adódik többnek, mint a pusztán a külső görbületi sugárból a fenti egyszerű képlettel számított keratometriás érték.
+
+A közelmúlt új eredményei alapján a Gullstrand-féle szemmodell 6,8/7,7-es (=0,8831) corneagörbületi aránya túl nagynak tűnik. Dubbelmann és mtsai munkája alapján ez az érték 0,82 és 0,84 közöttinek adódott.
 
